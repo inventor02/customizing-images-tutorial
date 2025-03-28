@@ -7,7 +7,7 @@
         "file_target_extension": "xz",
         "file_unarchive_cmd": ["xz", "--decompress", "$ARCHIVE_PATH"],
         "image_build_method": "reuse",
-        "image_path": "corora-cm4.img",
+        "image_path": "example.img",
         "image_size": "4G",
         "image_type": "dos",
         "image_partitions": [
